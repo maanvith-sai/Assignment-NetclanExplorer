@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="select">Select Item</string>
+    <string name="personal">Personal</string>
+    <string name="business">Business</string>
+    <string name="merchant">Merchant</string>
+    <string-array name="dropdown_items">
+        <item>Available | Hey Let Us Connect  ⯆</item>
+        <item>Away | Stay Discreet And Watch</item>
+        <item>Busy | Do Not Disturb | Will Catch Up Later</item>
+        <item>SOS | Emergency! Need Assistance! HELP</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
